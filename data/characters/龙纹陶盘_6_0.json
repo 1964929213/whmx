@@ -1,0 +1,72 @@
+{
+    "name": "龙纹陶盘",
+
+    "base_stats": {
+        "normal_attack": 0.2,
+        "combo_attack": 0.0,
+        "alert_attack": 0.0,
+        "counter_attack": 0.0,
+        "pursuit_attack": 0.0,
+        "skill_damage": 0.0,
+        "extra_damage": 0.5,
+        "dot_damage": 0.0,
+        
+        "critical_rate": 0.8,
+        "critical_damage": 2.6,
+        "defensive_penetration": 0.3,
+        "ignore_defense": 0.0,
+
+        "attack_power_amplification": 0.6,
+        "damage_amplification": 0.35,
+        "received_damage_amplification": 0.0,
+        "physical_amplification": 0.0,
+        "magic_amplification": 0.2
+    },
+
+    "damage_types":{
+        "physical": 0.0,
+        "magic": 1.0,
+        "true": 0.0
+    },
+
+    "survival_types": {
+        "shield": 0.0,
+        "heal": 0.0,
+        "defense": 0.0,
+        "damage_reduction": 0.0,
+        "debuff": 0.2
+    },
+
+    "damage_contributions": {
+        "normal_attack": 0.1,
+        "combo_attack": 0.0,
+        "alert_attack": 0.0,
+        "counter_attack": 0.0,
+        "pursuit_attack": 0.0,
+        "skill_damage": 1.0,
+        "extra_damage": 0.0,
+        "dot_damage": 0.0
+    },
+
+    "team_buffs": {
+        "normal_attack": 0.0,
+        "combo_attack": 0.0,
+        "alert_attack": 0.0,
+        "counter_attack": 0.0,
+        "pursuit_attack": 0.0,
+        "skill_damage": 0.0,
+        "extra_damage": 0.0,
+        "dot_damage": 0.0,
+        
+        "critical_rate": 0.0,
+        "critical_damage": 0.0,
+        "defensive_penetration": 0.0,
+        "ignore_defense": 0.0,
+
+        "attack_power_amplification": 0.0,
+        "damage_amplification": 0.0,
+        "received_damage_amplification": 0.0,
+        "physical_amplification": 0.0,
+        "magic_amplification": 0.0
+    }
+}
